@@ -3,3 +3,5 @@
  
 # HI, we are team 042B from OSSE! :)
 
+# OpenSource Project : RocksDB
+## repository : https://github.com/17-1-SKKU-OSS/rocksdb
