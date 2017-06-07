@@ -10,3 +10,9 @@ RocksDB is High-performance DataBase for Key-Value Data
 - Translate document & code annotation 
 - Fix typo
 - Code Review & Test
+
+## 한국어 번역 자료
+### 소스 코드 번역
+	[db.h](./translate_doc/Kor/db_h.txt)
+### 문서 번역
+	[INSTALL.md](./translate_doc/Kor/INSTALL.md) - RockDB 설치 방법
