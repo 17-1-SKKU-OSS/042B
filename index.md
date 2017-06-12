@@ -10,8 +10,7 @@ RocksDB is High-performance DataBase for Key-Value Data <br/>
 [More information about RocksDB](https://github.com/17-1-SKKU-OSS/rocksdb/wiki/%EC%84%A0%EC%A0%95-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 ## 4.How to contribute
-<<<<<<< HEAD
-=======
+
 [Our roll of contribution](https://github.com/17-1-SKKU-OSS/rocksdb/wiki/커뮤니티-활동-방안)
 >>>>>>> fd4fdea3febc693cd8afe8bc52ff88cf83ee7e4c
 - Translate document & code annotation 
@@ -42,7 +41,7 @@ RocksDB is High-performance DataBase for Key-Value Data <br/>
 ## 전체 활동 내용 기록 <br/>
 [community 활동 기록을 wiki](https://github.com/17-1-SKKU-OSS/rocksdb/wiki/%ED%99%9C%EB%8F%99-%EA%B8%B0%EB%A1%9D) 
 ### 위의 활동 기록을 바탕으로 2017/06/13 기준 4번 보낸 pull request 중 3번의 pull request가 받아들여져서 실제 rocksDB github에 커밋 로그가 남았다.
-=======
+
  - ## 1) 한국어 번역 자료 -  한국어 번역의 경우 rocksDB쪽에서 pull request를 받아주지 않을 것이라 생각되어서 따로 translation branch를 만들어 기여활동을 진행
    ### 소스 코드 번역 
    - [db.h](translate_doc/Kor/db_h.txt)
@@ -59,4 +58,3 @@ RocksDB is High-performance DataBase for Key-Value Data <br/>
  ## <전체 활동 내용 기록> <br/>
   [community 활동 기록을 wiki](https://github.com/17-1-SKKU-OSS/rocksdb/wiki/%ED%99%9C%EB%8F%99-%EA%B8%B0%EB%A1%9D) <br/>
  ### 위의 활동 기록을 바탕으로 2017/06/13 기준 4번 보낸 pull request 중 3번의 pull request가 받아들여져서 실제 rocksDB github에 커밋 로그가 남았다.
->>>>>>> fd4fdea3febc693cd8afe8bc52ff88cf83ee7e4c
