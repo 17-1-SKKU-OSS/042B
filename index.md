@@ -37,6 +37,6 @@ RocksDB is High-performance DataBase for Key-Value Data <br/>
   
  - ## 3)  RocksDB souce code의 오탈자 수정
   
- ## <전체 활동 내용 기록> <br/>
-  [community 활동 기록을 wiki](https://github.com/17-1-SKKU-OSS/rocksdb/wiki/%ED%99%9C%EB%8F%99-%EA%B8%B0%EB%A1%9D) <br/>
- ### 위의 활동 기록을 바탕으로 2017/06/13 기준 4번 보낸 pull request 중 3번의 pull request가 받아들여져서 실제 rocksDB github에 커밋 로그가 남았다.
+## <전체 활동 내용 기록>
+[community 활동 기록을 wiki](https://github.com/17-1-SKKU-OSS/rocksdb/wiki/%ED%99%9C%EB%8F%99-%EA%B8%B0%EB%A1%9D) <br/><br/>
+위의 활동 기록을 바탕으로 2017/06/13 기준 4번 보낸 pull request 중 3번의 pull request가 받아들여져서 실제 rocksDB github에 커밋 로그가 남았다.
