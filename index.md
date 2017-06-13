@@ -27,7 +27,7 @@ RocksDB is High-performance DataBase for Key-Value Data <br/>
 ### 1) 한국어 번역 자료
 한국어 번역의 경우 rocksDB쪽에서 pull request를 받아주지 않을 것이라 생각되어서 따로 translation branch를 만들어 기여활동을 진행 <br/><br/>
 소스 코드 번역<br/><br/> 
-  - [db.h](translate_doc/Kor/db_h.txt)<br/><br/>
+  - [db.h](translate_doc/Kor/db_h.txt)
 문서 번역<br/><br/>
   - [FAQ.md](translate_doc/Kor/faq.md) - 자주 묻는 질문<br/><br/>
   - [INSTALL.md](translate_doc/Kor/INSTALL.md) - RockDB 설치 방법<br/><br/>
